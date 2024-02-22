@@ -3,7 +3,7 @@
   "name": "open-url",
   "title": "Open URL",
   "description": "Opens a selected URL in your default browser",
-  "icon": "command-icon.png",
+  "icon": "link.png",
   "author": "nbbaier",
   "license": "MIT",
   "commands": [
