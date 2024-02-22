@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "open-url",
-  "title": "Open URL",
+  "title": "Open URLs",
   "description": "Opens a selected URL in your default browser",
   "icon": "link.png",
   "author": "nbbaier",
@@ -9,8 +9,8 @@
   "commands": [
     {
       "name": "index",
-      "title": "Open URL",
-      "description": "Open the selected URL in your default browser",
+      "title": "Open URL(s)",
+      "description": "Open all valid URLs in the selected text in your default browser",
       "mode": "no-view"
     }
   ],

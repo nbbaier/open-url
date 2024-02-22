@@ -1,3 +1,3 @@
 # Open URL
 
-Raycast extension to open a selected URL in your default browser.
+Raycast extension that opens all valid URLs in some selected text in your default browser
